@@ -16,7 +16,7 @@ The code was built based on the original instructables, however it differs in ma
 - Used a reliable library for detecting button push instead of manually detecting it
 - Used Adafruit's NeoPixel library to control the addressable LED
 - Added more zones and more colors:
--- Purple: Object too far
--- Green: Object within target distance
--- Yellow: Object Exited target distance (towards the sensor)
--- Red (blinking): Object too close. Back up.
+  - Purple: Object too far
+  - Green: Object within target distance
+  - Yellow: Object Exited target distance (towards the sensor)
+  - Red (blinking): Object too close. Back up.
